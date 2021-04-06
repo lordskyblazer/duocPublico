@@ -1,0 +1,16 @@
+.div-carrusel {
+    margin: auto;
+    margin-top: 30px;
+    max-width: 500px;
+    max-height: 500px;
+    margin-bottom: 20px;
+}
+
+.tarjetas{
+    display: inline;
+    width: 50px;
+}
+
+.div-tarjetas{
+    margin-top: 20px;
+}
